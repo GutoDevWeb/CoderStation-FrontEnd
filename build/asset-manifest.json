@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CoderStation-FrontEnd/static/css/main.d9b1163d.css",
+    "main.js": "/CoderStation-FrontEnd/static/js/main.a5522f38.js",
+    "static/media/headerImage.png": "/CoderStation-FrontEnd/static/media/headerImage.5bd86c9373ea581ef51e.png",
+    "static/media/microsoft.svg": "/CoderStation-FrontEnd/static/media/microsoft.d3dc5dc02dfba41bb0e5c9ff219950fd.svg",
+    "static/media/youtube.svg": "/CoderStation-FrontEnd/static/media/youtube.7cbb39ffd9dcb8ad881033d9a94ed53d.svg",
+    "static/media/google.svg": "/CoderStation-FrontEnd/static/media/google.79588ee27cf539a3bf0a4deda7a93417.svg",
+    "static/media/verizon.svg": "/CoderStation-FrontEnd/static/media/verizon.39a5e8b9270b1d8c5197d06b9f2c95b4.svg",
+    "static/media/slack.svg": "/CoderStation-FrontEnd/static/media/slack.77e630fbacd2a95471c411b8a7e815f7.svg",
+    "static/media/lexmark.svg": "/CoderStation-FrontEnd/static/media/lexmark.03199e7aeca93b999c2ce56cec13226c.svg",
+    "static/media/icon-softskills.svg": "/CoderStation-FrontEnd/static/media/icon-softskills.b6b4314105585d2293ecf797352f6637.svg",
+    "static/media/icon-hardware.svg": "/CoderStation-FrontEnd/static/media/icon-hardware.157960814195ec7a3fa9dcaa657eded4.svg",
+    "static/media/lenovo.svg": "/CoderStation-FrontEnd/static/media/lenovo.b2bfe0b2446392204545bc976b7a33a3.svg",
+    "static/media/netflix.svg": "/CoderStation-FrontEnd/static/media/netflix.516e794520a144d62a0a91d2b0ac575b.svg",
+    "static/media/icon-star.svg": "/CoderStation-FrontEnd/static/media/icon-star.996c43d2aefe66e737e37dffe761a559.svg",
+    "index.html": "/CoderStation-FrontEnd/index.html",
+    "static/media/icon-api.svg": "/CoderStation-FrontEnd/static/media/icon-api.67d3bb421e0b762df78c9db7945233b8.svg",
+    "static/media/icon-full.svg": "/CoderStation-FrontEnd/static/media/icon-full.2647568300bf62dc0649cb10ca0da491.svg",
+    "static/media/logo.svg": "/CoderStation-FrontEnd/static/media/logo.b367d0f3848e84aee40246c3432cf76a.svg",
+    "main.d9b1163d.css.map": "/CoderStation-FrontEnd/static/css/main.d9b1163d.css.map",
+    "main.a5522f38.js.map": "/CoderStation-FrontEnd/static/js/main.a5522f38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9b1163d.css",
+    "static/js/main.a5522f38.js"
+  ]
+}
